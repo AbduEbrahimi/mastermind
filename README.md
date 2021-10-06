@@ -8,7 +8,6 @@ In this game you have to guess the colors that the computer randomly selects. Th
 
 ```python
 >>> import mastermind
->>> mastermind.run()
 Welcome to Mastermind
 Version: 0.9.7
 Choose five of these colors: green red blue pink yellow orange gray
